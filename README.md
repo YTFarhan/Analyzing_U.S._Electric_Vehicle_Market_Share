@@ -75,14 +75,14 @@ Each record represents total registered vehicles by fuel type for a U.S. state.
 ## 🛠 Tech Stack
 
 * **Excel** – Initial inspection & validation
-* **SQL** – Data cleaning and market share calculations
+* **MySQL** – Data cleaning and market share calculations
 * **Tableau** – Dashboard development & visualization
 
 ---
 
 ## 🧹 Data Cleaning
 
-Performed using SQL:
+Performed using MySQL:
 
 * Checked for missing values and zero counts
 * Validated total vehicle calculations
